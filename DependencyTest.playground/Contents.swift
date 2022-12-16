@@ -1,0 +1,1 @@
+TheatherTest.defaultTestSuite.run()
